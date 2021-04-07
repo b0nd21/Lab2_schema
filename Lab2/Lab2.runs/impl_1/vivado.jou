@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Apr  8 00:58:10 2021
+# Process ID: 74379
+# Current directory: /home/P33011_1/Lab2/Lab2.runs/impl_1
+# Command line: vivado -log accelerator.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source accelerator.tcl -notrace
+# Log file: /home/P33011_1/Lab2/Lab2.runs/impl_1/accelerator.vdi
+# Journal file: /home/P33011_1/Lab2/Lab2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source accelerator.tcl -notrace

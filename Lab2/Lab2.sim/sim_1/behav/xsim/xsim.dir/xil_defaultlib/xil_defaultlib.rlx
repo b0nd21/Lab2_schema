@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/P33011_1/Lab2/Lab2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/P33011_1/Lab2/Lab2.srcs/sim_1/new/test.v,1617831657,verilog,,,,test,,,,,,,,
+/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/accelerator.v,1617831420,verilog,,/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/adder.v,,accelerator,,,,,,,,
+/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/adder.v,1617831565,verilog,,/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/mult.v,,adder,,,,,,,,
+/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/mult.v,1617831392,verilog,,/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/substractor.v,,mult,,,,,,,,
+/home/P33011_1/Lab2/Lab2.srcs/sources_1/new/substractor.v,1617831351,verilog,,/home/P33011_1/Lab2/Lab2.srcs/sim_1/new/test.v,,substractor,,,,,,,,
